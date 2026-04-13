@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoppercraft&label=Profile%20views&color=0e75b6&style=flat" alt="hoppercraft" /> </p>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **Django**
 
 - 📫 Reach me **siddhart.uwu@gmail.com**
 <h3 align="left">Connect with me:</h3>
